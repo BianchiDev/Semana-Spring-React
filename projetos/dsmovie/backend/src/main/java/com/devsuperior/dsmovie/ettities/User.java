@@ -16,7 +16,7 @@ public class User {
 	private Long id;
 	private String email;
 	
-	User () {
+	public User () {
 		
 		
 	}
@@ -39,7 +39,7 @@ public class User {
 		return email;
 	}
 
-	public void setAmail(String amail) {
+	public void setEmail(String amail) {
 		this.email = email;
 	}
 	
