@@ -35,7 +35,7 @@ public class User {
 		this.id = id;
 	}
 
-	public String getAmail() {
+	public String getEmail() {
 		return email;
 	}
 
